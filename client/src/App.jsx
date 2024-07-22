@@ -1,14 +1,15 @@
-
-
+import Header from "./components/header/Header";
+import Home from "./components/home/Home";
 
 function App() {
-  
-
   return (
-    <>
-     <h1>Start</h1>
-    </>
-  )
+    <div id="box">
+      <Header />
+      <main id="main-content">
+        <Home />
+      </main>
+    </div>
+  );
 }
 
-export default App
+export default App;
