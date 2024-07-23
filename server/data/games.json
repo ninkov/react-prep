@@ -1,0 +1,19 @@
+
+{
+    "4e74d28d-c7a9-4a25-8796-242cfb128893": {
+        "title": "Assassin's Creed",
+        "category": "Action",
+        "maxLevel": "10",
+        "imageUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/25jYqtlv4yZXspIIIrPYcy/f90d2f35fcb4f0080a6abbddb5e927ad/AC-Shadows-boxshot.jpg?imwidth=360",
+        "summary": "Experience an epic historical action-adventure story set in feudal Japan! Become a lethal shinobi Assassin and a powerful legendary samurai as you explore a beautiful open world in a time of chaos. Switch seamlessly between two unlikely allies as you discover their common destiny and usher in a new era for Japan.",
+        "_id": "4e74d28d-c7a9-4a25-8796-242cfb128893"
+    },
+    "00cb531b-8ae8-44b6-9b1c-5e218d4d8a27": {
+        "title": "Call of Duty",
+        "category": "Action",
+        "maxLevel": "10",
+        "imageUrl": "https://static.wikia.nocookie.net/callofduty/images/f/f4/App_Icon_CODM_Global.jpg/revision/latest/thumbnail/width/360/height/450?cb=20200507033012",
+        "summary": "Call of Duty: Mobile (formerly known as Call of Duty: Legends of War, and Elite Squad in its pre-alpha phase) is a free-to-play mobile first-person shooter that was released first in Alpha on December 15th, 2018 for Android systems only in Australia.[",
+        "_id": "00cb531b-8ae8-44b6-9b1c-5e218d4d8a27"
+    }
+}
