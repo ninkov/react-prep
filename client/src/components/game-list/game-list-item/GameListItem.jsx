@@ -1,6 +1,8 @@
-/* eslint-disable react/prop-types */
+
+import {Link} from 'react-router-dom'
+
 export default function GameListItem({ 
-    // eslint-disable-next-line no-unused-vars
+    
     _id, 
     title, 
     category,
@@ -11,9 +13,9 @@ export default function GameListItem({
         <img src={imageUrl} />
         <h6>{category}</h6>
         <h2>{title}</h2>
-        <a href="#" className="details-button">
+        <Link to={`/games/${_id}/details`} className="details-button">
           Details
-        </a>
+        </Link>
       </div>
     </div>
   );
