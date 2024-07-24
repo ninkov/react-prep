@@ -24,7 +24,7 @@ SoftUni React Course Project
 - [x] Preseed practice server
 ## 4. Page Implementations
 - [x] Game list
-- [] Details
+- [x] Details
   - [x] Details link
   - [x] Details route
   - [x] Api function - getOne
@@ -34,6 +34,6 @@ SoftUni React Course Project
 - [x] Post comment to server
 - [x] Read comments from server
 - [x] Add comments in the component
-- [] Clear form
+- [x] Clear form
 
 
